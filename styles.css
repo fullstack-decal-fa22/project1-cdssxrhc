@@ -29,10 +29,6 @@ h5{
     line-height:170%;
     letter-spacing:0.6px;
 }
-h6{
-    color:slategray;
-    font-size: 10px;
-}
 body{
     min-width:1000px;
 }
@@ -141,4 +137,8 @@ input[type=submit]{
     background-color: antiquewhite;
     border-width: 0;
     border-radius: 3px;
+}
+#portfolio{
+    color:slategray;
+    font-size: 12px;
 }
